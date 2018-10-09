@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Explicit intents</string>
+    <string name="button_text">New activity</string>
+    <string name="finish">Gotta go back</string>
+    <string name="name">Name</string>
+</resources>
